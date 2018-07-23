@@ -34,3 +34,6 @@ To select Guides choose **select tool** and draw rectangle around the Guides tha
 
 ## Smart Guides
  Smart help you to snap 
+
+## Switch selection tool
+To switch selection tool use **hold command key**
